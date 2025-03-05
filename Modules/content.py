@@ -11,3 +11,4 @@ class Content:
         # Метод для получения контента
         return self.data
 
+
