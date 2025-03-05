@@ -1,3 +1,6 @@
+
+
+
 class Lessons:
     def __init__(self):
         # Инициализация уроков
@@ -10,3 +13,4 @@ class Lessons:
     def get_lessons(self):
         # Метод для получения списка уроков
         return self.lessons
+
